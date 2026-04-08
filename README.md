@@ -7,9 +7,9 @@
 - **Comisión:** M26 C1-09 
 
 ## 📂 Descripción del Repositorio  
-Este repositorio almacena todas el trabajo integrador de la Unidad 3 de la materia programacion 1.  
+Este repositorio almacena el trabajo integrador de la Unidad 3 de la materia programacion 1.  
 
 📌 **Estructura del repositorio:**  
-- Cada trabajo está organizado en carpetas individuales.  
+- El trabajo está organizado en una carpeta individual.  
 - Los archivos de código fuente (`.py`) incluyen comentarios y estructura adecuada.  
 - Se busca mantener un código limpio, ordenado y bien documentado.  
